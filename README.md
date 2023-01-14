@@ -7,3 +7,5 @@ the site has 5 pages linked together with react router dom.
 
 all the data is fetched from our server : https://github.com/roeyrach/Gamer-den-server
 the server in written in node.js and uses mongo-db to store data
+
+![image](https://user-images.githubusercontent.com/93585090/212473497-113553e0-4bbb-4379-a443-8f2d0969ff6d.png)
